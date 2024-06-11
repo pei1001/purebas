@@ -4,7 +4,7 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
 /**
- * Cliente remoto.
+ * Cliente remoto. probar
  */
 public class Cliente {
 
